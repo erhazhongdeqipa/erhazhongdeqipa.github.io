@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>二哈中的奇葩</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://erhazhongdeqipa.top/"/>
+  <updated>2020-04-16T18:13:39.024Z</updated>
+  <id>https://erhazhongdeqipa.top/</id>
+  
+  <author>
+    <name>兰心蕙质</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>早上好呀</title>
+    <link href="https://erhazhongdeqipa.top/2019/07/07/hello-world/"/>
+    <id>https://erhazhongdeqipa.top/2019/07/07/hello-world/</id>
+    <published>2019-07-07T20:34:28.000Z</published>
+    <updated>2020-04-16T18:13:39.024Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css"></p><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script><meting-js server="netease" type="song" id="34779102" autoplay="true"></meting-js><center><font size="10">拥有一天好心情</font></center><script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
